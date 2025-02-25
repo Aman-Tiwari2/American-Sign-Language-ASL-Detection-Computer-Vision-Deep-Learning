@@ -8,10 +8,11 @@ This project focuses on detecting and recognizing American Sign Language (ASL) g
 - Pre-trained deep learning models for accurate gesture classification
 - Custom dataset support for training on additional signs
 
-  **🔧 Setup & Usage**
-  1. Clone Repository
-  2. Install all the important dependencies(cv2, cvzone, tensorflow, numpy, math, time)
-  3. Make Sure to use a compatible Python version with all the dependencies.
+**🔧 Setup & Usage**
+ 1. Clone Repository
+ 2. Install all the important dependencies(cv2, cvzone, tensorflow, numpy, math, time)
+ 3. Make Sure to use a compatible Python version with all the dependencies.
  
- **🌟 Contributions & Feedback**
+**🌟 Contributions & Feedback**
+
 Feel free to fork, improve, or share feedback. Contributions are welcome!
